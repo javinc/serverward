@@ -1,0 +1,2 @@
+# serverward
+minimalistic server notfication
