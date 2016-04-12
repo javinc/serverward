@@ -14,9 +14,9 @@ import (
 )
 
 const (
-	maxCp = 55
-	maxMp = 55
-	maxDp = 55
+	maxCp = 95
+	maxMp = 95
+	maxDp = 95
 
 	maxHit = 5
 	delay  = time.Second * 2
